@@ -1,0 +1,87 @@
+.world{
+  background-color: black;
+  border: 2px solid blue;
+  height:600px;
+  width: 1200px;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding: 20px;
+  /* overflow: scroll;
+  display: grid; */
+  /* display: flex;
+  align-content: space-between;
+  flex-wrap: wrap; */
+}
+.deathrow{
+  background-image: url("images/deathrow.jpg");
+  border: 10px solid black;
+  height: 200px;
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+
+#title{
+  height: 100px;
+  background-color: inherit;
+  display: flex;
+  justify-content: center;
+}
+#pac{
+  width: 100px;
+  height: 80px;
+  position:fixed;
+  left: 20px;
+  top: 5px;
+
+}
+#biggie{
+  width: 150px;
+  height: 100px;
+}
+#diddy{
+  width: 125px;
+  height: 125px;
+}
+#shuge{
+  width: 200px;
+  height: 100px;
+}
+#snoop{
+  width: 100px;
+  height: 100px;
+}
+
+.wall{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
+.wall1{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
+.wall2{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
+.wall3{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
+.wall4{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
+.wall5{
+  background-color: navy;
+  width:50px;
+  height: 50px;
+}
